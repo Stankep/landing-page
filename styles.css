@@ -86,3 +86,47 @@ padding-top: 10px;
   border-radius: 10px;
 }
 
+.signup-button:hover {
+  opacity: 0.8;
+}
+
+
+.second-title {
+  display: flex;
+  justify-content: center;
+}
+
+.random-information {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color:#1F2937;
+  font-size: 36px;
+  font-weight: bolder;
+  text-align: center;
+
+}
+
+.row-of-boxes {
+  display: flex;
+  flex-direction: row;
+  gap:40px;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.box-blue {
+  display: flex;
+  height: 130px;
+  width: 130px;
+  padding: 20px 30px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  padding-bottom: 10px;
+  
+
+}
+
+.p-second {
+  padding-top: 5px;
+  text-align: center;
+}
